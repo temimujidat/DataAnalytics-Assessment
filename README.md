@@ -103,7 +103,7 @@ The query determines the length of time an account has been active, the transact
 
 1. Clone this repository to your local machine:
 
-
+https://github.com/temimujidat/DataAnalytics-Assessment.git
 
 
 
